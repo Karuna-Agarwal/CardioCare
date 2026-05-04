@@ -1159,7 +1159,7 @@ if "Assessment" in nav:
 
         if pct >= 60:
             tips = [
-                ("🩺","Cardiology Consult","Schedule a full cardiac workup: stress ECG, echocardiogram, and coronary angiography as advised."),
+                ("🩺","Cardiology Consultant","Schedule a full cardiac workup: stress ECG, echocardiogram, and coronary angiography as advised."),
                 ("💊","Medication Review","Discuss statin therapy, antihypertensives, or antiplatelet agents with your cardiologist."),
                 ("🥗","Therapeutic Diet","DASH or Mediterranean diet. Sodium < 2g/day, reduce saturated fats and refined carbs."),
                 ("🏃","Supervised Exercise","Cardiac rehab or medically supervised low-impact exercise 30 min, 5× per week."),
